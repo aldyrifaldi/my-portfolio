@@ -1,30 +1,29 @@
-# About Me
+# About Me  
 
-I am a passionate Software Engineer with over 5 years of experience in developing scalable web applications and cloud solutions. My expertise spans across the full software development lifecycle, from concept and design to deployment and maintenance.
+I am a dedicated Software Developer with over 5 years of experience specializing in building scalable web applications, digital platforms, and tax administration solutions. My professional journey has allowed me to work on impactful projects such as online examination systems, tax reporting platforms, and e-commerce applications, showcasing my ability to deliver robust, user-centric solutions.  
 
-## Professional Journey
+## Professional Journey  
 
-My journey in software engineering began with a strong foundation in computer science, followed by hands-on experience at various technology companies. I've had the opportunity to work on diverse projects, ranging from e-commerce platforms to AI-powered analytics systems.
+My career in software development began with a strong foundation gained through immersive bootcamp training and has been enriched by hands-on experience in various companies. I’ve contributed to diverse projects, including **PajakExpress**, **Perisai Paskibraka**, and **Book Store Ortax**, where I applied my expertise in full-stack development and cloud technologies.  
 
-## Core Competencies
+## Core Competencies  
 
-- **Architecture Design**: Expertise in designing scalable system architectures
-- **Full Stack Development**: Proficient in both frontend and backend technologies
-- **Cloud Solutions**: Experience with AWS, Azure, and cloud-native applications
-- **Team Leadership**: Successfully led and mentored development teams
+- **Full Stack Development**: Proficiency in frontend and backend technologies, including React.js, Next.js, Node.js, and Laravel.  
+- **Cloud Solutions**: Experience deploying scalable applications on AWS and Alibaba Cloud.  
+- **API Integration**: Skilled in designing and implementing APIs for seamless system communication.  
+- **Collaboration & Productivity**: Expertise in using tools like ClickUp, GitHub, and JIRA to ensure efficient teamwork and delivery.  
 
-## Values & Approach
+## Values & Approach  
 
-I believe in:
-- Writing clean, maintainable, and well-documented code
-- Following test-driven development practices
-- Continuous learning and staying updated with industry trends
-- Collaborative problem-solving and knowledge sharing
+I am committed to:  
+- Writing clean, maintainable, and efficient code to ensure long-term scalability.  
+- Embracing continuous learning to keep up with evolving technologies.  
+- Following agile practices for efficient project execution.  
+- Promoting a collaborative work environment that values teamwork and knowledge sharing.  
 
-## Current Focus
+## Current Focus  
 
-Currently, I'm focused on:
-- Cloud-native application development
-- Microservices architecture
-- DevOps practices and automation
-- Machine Learning integration in web applications
+Currently, I am focused on:  
+- Leveraging AI tools to assist in development tasks, improve productivity, and enhance decision-making.  
+- Automating redundant workflows to streamline operations and save time.  
+- Enhancing web application performance with modern frameworks like Next.js.  

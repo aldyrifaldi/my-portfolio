@@ -1,163 +1,110 @@
-# Curriculum Vitae
+# Curriculum Vitae  
 
-## Aldy Rifaldi.B
-### Full Stack Developer | Cloud Architecture Specialist
+## Aldy Rifaldi.B  
+### Software Engineer
 
 <div class="contact-info">
-📧 aldy.rifaldi@example.com | 
-🔗 [LinkedIn](https://linkedin.com/in/aldyrifaldi) |
-💻 [GitHub](https://github.com/aldyrifaldi) |
-🐦 [Twitter](https://twitter.com/aldyrifaldi)
-</div>
+📧 aldyrifaldib06@gmail.com |  
+🔗 [LinkedIn](https://linkedin.com/in/aldyrifaldi06) |  
+💻 [GitHub](https://github.com/aldyrifaldi) |  
+🐦 [Twitter](https://twitter.com/aldyrifaldi06)  
+</div>  
 
-## Professional Summary
-A passionate Software Engineer with over 5 years of experience in developing scalable web applications and cloud solutions. Expertise spans across the full software development lifecycle, from concept and design to deployment and maintenance.
+## Professional Summary  
+A Software Developer with over 5 years of experience specializing in building scalable web applications, automating workflows, and leveraging AI tools to enhance productivity. Proficient across the full software development lifecycle, with a strong focus on delivering efficient, secure, and maintainable solutions.  
 
-## Core Competencies
-- Architecture Design: Expertise in designing scalable system architectures
-- Full Stack Development: Proficient in both frontend and backend technologies
-- Cloud Solutions: Experience with AWS, Azure, and cloud-native applications
-- Team Leadership: Successfully led and mentored development teams
+## Core Competencies  
+- **Full Stack Development**: Expertise in both frontend and backend technologies to build robust, user-centric applications.  
+- **AI Integration**: Skilled in utilizing AI tools to automate redundant workflows and improve development efficiency.  
+- **Collaboration**: Strong team player with proven ability to work in cross-functional teams and adapt to diverse work environments.  
 
-## Professional Experience
+## Professional Experience  
 
-### PT Integral Data Prima
-**Front End Developer** | June 2023 - June 2024
+### PT Integral Data Prima  
+**Front End Developer** | June 2023 - Current  
+- Developed front-end components for **PajakExpress**, a tax reporting platform featuring:  
+  - eFaktur  
+  - eBupot PPh 21/26  
+  - eBupot Unifikasi  
+  - PPn 1107 PUT  
+- Designed and implemented user interfaces for **Book Store Ortax**, an e-commerce platform for tax-related books.  
+- Collaborated with back-end developers to ensure seamless integration and data exchange.  
+- Enhanced system performance and optimized UI for scalability.  
 
-- Developed and maintained front-end components for internal tax reporting systems:
-  - eFaktur
-  - eBupot PPh 21/26
-  - eBupot Unifikasi
-  - PPn 1107 PUT
-- Collaborated with back-end developers for seamless integration
-- Optimized system functionality and performance
+### PT Temurasa Indonesia Kreasi Kreasi  
+**Front End Developer (Part Time)** | August 2023 - December 2023  
+- Developed the front-end for **Perisai Paskibraka**, an online examination platform for the National Paskibraka Selection, using Next.js.  
+- Ensured compliance with accessibility standards and optimized performance for over 20,000 participants.  
+- Collaborated with designers and back-end developers to deliver a seamless user experience.  
 
-### PT Temurasa Inti Kreasi
-**Front End Developer (Part Time)** | August 2023 - December 2023
+### PT Qukerja  
+**Full Stack Developer** | July 2022 - February 2023  
+- Designed and developed internal products:  
+  - **Job Portal**: A scalable platform connecting employers with job seekers.  
+  - **Content Management System (CMS)**: A tool for efficient content publishing and management.  
+- Utilized Laravel for full-stack development and ensured seamless data integration.  
 
-- Developed front-end components for government projects using Next.js
-- Ensured compliance with project requirements and accessibility standards
-- Conducted thorough testing and debugging
+### PT Kreasi Media Asia  
+**Full Stack Developer** | April 2022 - July 2022  
+- Built chatbot solutions to enhance customer interaction:  
+  - **Call Center Chat Bot**  
+  - **FlowBuilder Chatbot**  
+- Developed front-end using Next.js and back-end using Nest.js for robust chatbot functionality.  
 
-### PT Qukerja
-**Full Stack Developer** | July 2022 - February 2023
+## Education  
 
-- Designed and developed internal products:
-  - Job Portal
-  - Content Management System (CMS)
-- Utilized Laravel framework for full-stack development
-- Managed both front-end and back-end development tasks
+### Pondok Programmer  
+**Bootcamp** | 07/2019 - 07/2021  
+- Completed a two-year intensive program in software development.  
+- Delivered projects including e-commerce platforms, content management systems, and real-time applications.  
 
-### PT Kreasi Media Asia
-**Full Stack Developer** | April 2022 - July 2022
+## Technical Skills  
 
-- Developed innovative chatbot solutions:
-  - Call Center Chat Bot
-  - FlowBuilder Chatbot
-- Utilized Next.js and Nest.js for development
-- Enhanced chatbot functionality and user experience
+### Programming Languages  
+- JavaScript/TypeScript (Advanced)  
+- PHP (Advanced)  
+- SQL (Intermediete)  
 
-## Education
+### Frontend Development  
+- React.js & Next.js  
+- Vue.js  
+- HTML5/CSS3/Tailwind CSS/Material-UI  
 
-### Pondok Programmer
-**Bootcamp** | 07/2019 - 07/2021
+### Backend Development  
+- Node.js/Express.js  
+- Laravel  
+- Nest.js  
+- PostgreSQL/MongoDB  
 
-- Completed intensive programming curriculum
-- Developed real-world projects
-- Collaborated with industry professionals
-- Key Focus Areas:
-  - Full Stack Web Development
-  - Software Engineering Principles
-  - Modern Development Practices
-  - Professional Skills Development
+### Cloud & DevOps  
+- CI/CD (GitHub Actions)  
 
-## Technical Skills
+## Featured Projects  
 
-### Programming Languages
-- JavaScript/TypeScript (Advanced)
-- Python (Advanced)
-- Java (Intermediate)
-- Go (Intermediate)
-- SQL (Advanced)
+### PajakExpress  
+- Built a tax reporting platform integrated with Coretax for secure, efficient administration.  
+- Technologies: React.js, Node.js, and APIs for automation.  
 
-### Frontend Development
-- React.js & Next.js
-- Vue.js & Nuxt.js
-- HTML5/CSS3/SASS
-- Redux/Vuex
-- Material-UI/Tailwind CSS
-- WebSocket/REST/GraphQL
+### Perisai Paskibraka  
+- Developed an online examination platform used by 20,000+ participants.  
+- Technologies: Next.js, MySQL, TypeScript.  
 
-### Backend Development
-- Node.js/Express.js
-- Python/Django/FastAPI
-- Java Spring Boot
-- PostgreSQL/MongoDB
-- Redis/ElasticSearch
-- Message Queues (RabbitMQ, Kafka)
+### Book Store Ortax  
+- Designed an e-commerce platform for tax-related books with advanced search and payment integration.  
+- Technologies: Node.js, Next.js, JavaScript.  
 
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda, ECS)
-- Docker & Kubernetes
-- CI/CD (Jenkins, GitHub Actions)
-- Infrastructure as Code (Terraform)
-- Monitoring (Prometheus, Grafana)
-- Linux System Administration
+## Professional Certifications  
 
-## Featured Projects
+- Certified Developer (Alibaba Cloud, 2024)  
+- Certified Developer Generative AI (Alibaba Cloud, 2024)  
+- Next.js and React Certificate (Udemy, 2024)  
+- ClickUp Expert and Novice Certification (ClickUp, 2024)  
+- HackerRank JavaScript Basic (HackerRank, 2022)  
 
-### E-Commerce Platform
-- Built a scalable platform handling 100K+ daily transactions
-- Technologies: React.js, Node.js, MongoDB, AWS
-- Increased sales conversion by 25%
+## Languages  
+- English (Intermediate)  
+- Indonesian (Native)  
 
-### AI Analytics Dashboard
-- Developed AI-powered analytics platform
-- Technologies: Vue.js, Python, FastAPI, TensorFlow
-- Reduced data analysis time by 60%
-
-### Cloud Migration Project
-- Led legacy systems migration to cloud infrastructure
-- Technologies: AWS, Terraform, Docker, Kubernetes
-- Reduced operational costs by 40%
-
-## Professional Certifications
-
-### Cloud Computing
-- AWS Certified Solutions Architect - Professional
-- Google Cloud Professional Developer
-- Microsoft Azure Solutions Architect
-
-### Development
-- MongoDB Certified Developer
-- Node.js Certification
-- React Advanced Certification
-
-### Project Management & Security
-- Certified Scrum Master (CSM)
-- Project Management Professional (PMP)
-- CompTIA Security+
-- CISSP
-
-## Continuous Learning
-
-### Recent Presentations
-- "Scaling Microservices" at TechConf 2023
-- "Cloud Cost Optimization" at CloudExpo 2022
-- "Modern Frontend Architecture" at ReactCon 2022
-
-### Publications
-- "Best Practices in Cloud Architecture" - Tech Journal 2023
-- "Optimizing React Applications" - Medium Publication
-- "Microservices vs Monoliths" - Dev.to Blog
-
-## Languages
-- English (Professional)
-- Indonesian (Native)
-
-## Interests
-- Cloud-native application development
-- Microservices architecture
-- DevOps practices and automation
-- Machine Learning integration
-- Open source contribution
+## Interests  
+- Automating workflows using AI tools  
+- Microservices architecture  

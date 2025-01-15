@@ -7,6 +7,11 @@
   text-align: center;
 }
 
+html.dark .contact-info {
+  background: #333; /* Darker background for dark mode */
+  color: #fff; /* Optional: Adjust text color for better contrast */
+}
+
 h2 {
   border-bottom: 2px solid #3eaf7c;
   padding-bottom: 0.5rem;

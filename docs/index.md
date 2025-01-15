@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "Aldy Rifaldi.B"
   text: "Software Engineer"
-  tagline: Specialise in building scalable, easy to maintain applications
+  tagline: Specializing in building scalable, easy-to-maintain applications
   image:
     src: /me.png
     alt: Aldy Rifaldi.B - Professional headshot
@@ -19,38 +19,38 @@ features:
     title: Full Stack Development
     details: Over 4 years of experience as a full-stack developer, delivering scalable solutions across three corporate environments and completing numerous successful projects.
   - icon: ✨
-    title: AI Enchanced
-    details: Leverage AI tools to streamline development processes, enhance productivity, and significantly reduce time-to-market for applications.
+    title: AI Enhanced
+    details: Leveraging AI tools to streamline development processes, enhance productivity, and significantly reduce time-to-market for applications.
   - icon: 🛠️
     title: DevOps & CI/CD
-    details: Proficient in automating deployment pipelines and maintaining high-quality software delivery
+    details: Proficient in automating deployment pipelines and maintaining high-quality software delivery.
   - icon: 🤝
-    title: Team Work
+    title: Team Collaboration
     details: Strong collaborator with a proven ability to thrive in cross-functional teams, adapt to diverse work environments, and contribute effectively to achieving shared goals.
 ---
 
 <div class="custom-layout">
-  <h2>Proyek Terbaru</h2>
+  <h2>Latest Projects</h2>
   <div class="featured-projects">
     <div class="project-card">
       <h3>Book Store - Ortax</h3>
-      <p>Platform penjualan buku khusus perpajakan, menyediakan referensi terpercaya seperti Transfer Pricing, Undang-Undang Perpajakan, dan topik penting lainnya. Dirancang untuk memenuhi kebutuhan profesional, akademisi, dan praktisi pajak dengan sumber daya yang akurat dan relevan.</p>
+      <p>An e-commerce platform for tax-related books, providing trusted references such as Transfer Pricing, Tax Laws, and other key topics. Designed to meet the needs of professionals, academics, and tax practitioners with accurate and relevant resources.</p>
       <div class="tech-stack">
-        <span>Node RED</span> • <span>Node JS</span> • <span>Javascript</span> • <span>Payment Gateway</span> • <span>Next JS</span> • <span>React</span>
+        <span>Node RED</span> • <span>Node.js</span> • <span>JavaScript</span> • <span>Payment Gateway</span> • <span>Next.js</span> • <span>React</span>
       </div>
     </div>
     <div class="project-card">
       <h3>Perisai Paskibraka</h3>
-      <p>Sebuah platform ujian online untuk seleksi Paskibraka Nasional, digunakan oleh lebih dari 20.000 peserta dari seluruh Indonesia. Dirancang untuk menghadirkan proses seleksi yang efisien, transparan, dan terintegrasi secara digital.</p>
+      <p>An online examination platform for the National Paskibraka Selection, used by over 20,000 participants across Indonesia. Designed to deliver an efficient, transparent, and digitally integrated selection process.</p>
       <div class="tech-stack">
-        <span>Next.js</span> • <span>MySQL</span> • <span>React</span> • <span>Typescript</span>
+        <span>Next.js</span> • <span>MySQL</span> • <span>React</span> • <span>TypeScript</span>
       </div>
     </div>
     <div class="project-card">
       <h3>PajakExpress</h3>
-      <p>Platform pelaporan pajak resmi mitra DJP yang mengelola administrasi perpajakan dengan aman, efisien, dan terintegrasi. Menyediakan fitur seperti e-Faktur, e-Bupot, e-Billing, dan API automasi, PajakExpress mendukung pengolahan data skala besar dengan akurasi tinggi. Dibangun sesuai standar keamanan ISO 27001 dan terintegrasi dengan ERP atau software akuntansi untuk meningkatkan efisiensi dan mengurangi biaya kepatuhan pajak.</p>
+      <p>A tax reporting platform and official DJP partner designed for secure, efficient, and integrated tax administration. Featuring tools such as e-Faktur, e-Bupot, e-Billing, and API automation, PajakExpress supports large-scale data processing with high accuracy. Built with ISO 27001 security standards and fully integrated with ERP or accounting software to enhance efficiency and reduce compliance costs.</p>
       <div class="tech-stack">
-        <span>React</span> • <span>Javascript</span> • <span>Node JS</span>
+        <span>React</span> • <span>JavaScript</span> • <span>Node.js</span>
       </div>
     </div>
   </div>

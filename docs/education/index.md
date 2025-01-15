@@ -1,34 +1,34 @@
-# Pendidikan  
+# Education  
 
 ## Pondok Programmer  
 **Bootcamp** | 07/2019 - 07/2021  
 
-Program intensif selama dua tahun yang berfokus pada pengembangan keahlian di bidang pemrograman dan mempersiapkan profesional untuk sukses di industri teknologi yang dinamis.  
+An intensive two-year program focused on developing programming expertise and preparing professionals to thrive in the dynamic tech industry.  
 
-### Kompetensi Utama yang Dikembangkan  
-- **Full Stack Web Development**: Menguasai teknologi frontend dan backend untuk membangun aplikasi yang skalabel dan andal.  
-- **Prinsip Rekayasa Perangkat Lunak**: Mendalami praktik clean code, pola desain, dan metodologi pengujian.  
-- **Praktik Pengembangan Modern**: Menguasai metodologi Agile, praktik DevOps, dan sistem kontrol versi.  
-- **Pengembangan Keterampilan Profesional**: Meningkatkan komunikasi teknis, kolaborasi, dan kemampuan pemecahan masalah.  
+### Core Competencies Developed  
+- **Full Stack Web Development**: Mastery of frontend and backend technologies to build scalable and reliable applications.  
+- **Software Engineering Principles**: Deep understanding of clean code practices, design patterns, and testing methodologies.  
+- **Modern Development Practices**: Proficiency in Agile methodologies, DevOps practices, and version control systems.  
+- **Professional Skill Development**: Enhanced technical communication, team collaboration, and problem-solving abilities.  
 
-### Pencapaian Penting  
-- Menyelesaikan kurikulum pemrograman komprehensif yang menekankan pada aplikasi praktis di dunia nyata.  
-- Menghasilkan beberapa proyek full-stack, termasuk platform e-commerce, sistem manajemen konten, dan aplikasi real-time.  
-- Bekerja sama dengan rekan-rekan dalam proyek berbasis tim yang mensimulasikan alur kerja dan tantangan di industri.  
+### Key Achievements  
+- Completed a comprehensive programming curriculum emphasizing practical, real-world applications.  
+- Delivered multiple full-stack projects, including an e-commerce platform, content management system, and real-time applications.  
+- Collaborated in team-based projects simulating industry-level workflows and challenges.  
 
-### Keahlian Teknis yang Diperoleh  
-- **Frontend**: Mahir dalam HTML, CSS, JavaScript, dan framework modern seperti React.js.  
-- **Backend**: Menguasai Node.js, PHP, dan Laravel untuk membangun API dan logika server.  
-- **Manajemen Basis Data**: Terampil menggunakan basis data relasional dan NoSQL, termasuk MySQL dan MongoDB.  
-- **Kontrol Versi**: Pengetahuan lanjutan tentang Git dan alat kolaborasi seperti GitHub.  
+### Technical Skills Acquired  
+- **Frontend**: Proficient in HTML, CSS, JavaScript, and modern frameworks like React.js.  
+- **Backend**: Skilled in Node.js, PHP, and Laravel for API development and server-side logic.  
+- **Database Management**: Experienced in relational and NoSQL databases, including MySQL and MongoDB.  
+- **Version Control**: Advanced knowledge of Git and collaboration tools like GitHub.  
 
-### Proyek Unggulan  
-- **Platform E-Commerce**: Membuat marketplace online yang skalabel dengan integrasi pembayaran aman dan manajemen inventaris real-time.  
-- **Sistem Manajemen Konten**: Mengembangkan CMS dinamis dengan akses berbasis peran dan alur kerja penerbitan konten.  
-- **Aplikasi Chat Real-Time**: Merancang sistem chat dengan implementasi WebSocket untuk pengiriman pesan instan.  
-- **Website Portofolio**: Membuat portofolio pribadi yang menampilkan keahlian teknis dan proyek yang telah diselesaikan.  
+### Highlighted Projects  
+- **E-Commerce Platform**: Built a scalable online marketplace with secure payment integration and real-time inventory management.  
+- **Content Management System (CMS)**: Developed a dynamic CMS with role-based access control and streamlined content workflows.  
+- **Real-Time Chat Application**: Designed a chat system using WebSocket for instant messaging capabilities.  
+- **Portfolio Website**: Created a personal portfolio showcasing technical skills and completed projects.  
 
-### Kesiapan Industri  
-- Menerapkan praktik pengembangan Agile untuk menghasilkan kode yang berkualitas tinggi, efisien, dan mudah dipelihara.  
-- Mendapatkan pengalaman praktis dalam kolaborasi tim, dokumentasi teknis, dan manajemen proyek.  
-- Lulus dengan keterampilan dan pola pikir yang dibutuhkan untuk beradaptasi dan sukses di dunia teknologi yang berkembang pesat.  
+### Industry Readiness  
+- Applied Agile development practices to deliver high-quality, efficient, and maintainable code.  
+- Gained hands-on experience in team collaboration, technical documentation, and project management.  
+- Graduated equipped with the skills and mindset to adapt and succeed in the rapidly evolving tech landscape.  

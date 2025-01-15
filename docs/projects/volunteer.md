@@ -13,4 +13,4 @@
 - **Detail**:  
   - Berhasil menyelenggarakan acara wisuda santri TPQ 'ATHAA'UN.  
   - Memimpin perencanaan, koordinasi, dan pelaksanaan acara.  
-  - Memastikan kelancaran kolaborasi antara staf, peserta, dan pemangku kepentingan untuk memberikan pengalaman yang berkesan bagi para santri dan keluarga mereka.  
+  - Memastikan kelancaran kolaborasi antara panitia, peserta, dan pemangku kepentingan untuk memberikan pengalaman yang berkesan bagi para santri dan keluarga mereka.  

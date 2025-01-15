@@ -1,40 +1,35 @@
-# Technical Skills
+# Technical Skills  
 
-## Programming Languages
-- JavaScript/TypeScript (Advanced)
-- Python (Advanced)
-- Java (Intermediate)
-- Go (Intermediate)
-- SQL (Advanced)
+## Programming Languages  
+- **JavaScript/TypeScript** (Advanced)  
+- **PHP** (Advanced)  
+- **SQL** (Intermediete)  
 
-## Frontend Development
-- React.js & Next.js
-- Vue.js & Nuxt.js
-- HTML5/CSS3/SASS
-- Redux/Vuex
-- Material-UI/Tailwind CSS
-- WebSocket/REST/GraphQL
+## Frontend Development  
+- **React.js & Next.js**  
+- **Vue.js**  
+- **HTML5/CSS3/SASS**  
+- **Tailwind CSS/Material-UI**  
+- **Bootstrap 4**  
+- **WebSocket/REST APIs**  
 
-## Backend Development
-- Node.js/Express.js
-- Python/Django/FastAPI
-- Java Spring Boot
-- PostgreSQL/MongoDB
-- Redis/ElasticSearch
-- Message Queues (RabbitMQ, Kafka)
+## Backend Development  
+- **Node.js/Express.js**  
+- **Laravel**  
+- **Nest.js**  
+- **PostgreSQL/MongoDB**  
+- **Redis**  
 
-## Cloud & DevOps
-- AWS (EC2, S3, Lambda, ECS)
-- Docker & Kubernetes
-- CI/CD (Jenkins, GitHub Actions)
-- Infrastructure as Code (Terraform)
-- Monitoring (Prometheus, Grafana)
-- Linux System Administration
+## Cloud & DevOps  
+- **CI/CD Pipelines** (GitHub Actions)  
 
-## Tools & Methodologies
-- Git/GitHub
-- Agile/Scrum
-- JIRA/Confluence
-- Test-Driven Development
-- Microservices Architecture
-- System Design
+## Productivity and Collaboration Tools  
+- **ClickUp** (Novice & Expert Certified)  
+- **JIRA/Confluence**  
+- **Git/GitHub**  
+
+## Other Key Skills  
+- **Agile Development** (Scrum Practices)  
+- **Test-Driven Development**  
+- **System Design and Architecture**  
+- **Cross-Team Collaboration**  
