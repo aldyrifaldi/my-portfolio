@@ -20,6 +20,11 @@ Software Engineer with 5+ years of experience building scalable web applications
 
 ## Professional Experience  
 
+### Ortax  
+**Software Engineer** | 2025 – Present  
+- Started development of an AI Assistant for tax research and product knowledge to improve speed and accuracy of information retrieval.  
+- Implemented a Retrieval-Augmented Generation (RAG) architecture using n8n for workflow orchestration and an AI SDK with Mastra AI as the AI framework.  
+
 ### PT Integral Data Prima  
 **Front End Developer** | Jun 2023 – Present  
 - Developed and maintained front-end modules for **PajakExpress**, a tax reporting platform that includes:  
@@ -78,6 +83,12 @@ Software Engineer with 5+ years of experience building scalable web applications
 
 ### Cloud & DevOps  
 - CI/CD (GitHub Actions)  
+
+### AI & Automation  
+- n8n  
+- RAG (Retrieval-Augmented Generation)  
+- AI SDK  
+- Mastra AI  
 
 ## Featured Projects  
 
